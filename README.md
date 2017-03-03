@@ -1,0 +1,2 @@
+# gieldaTest
+Testowe repozytorium gielda
