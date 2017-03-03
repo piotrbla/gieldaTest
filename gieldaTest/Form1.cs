@@ -22,7 +22,7 @@ namespace gieldaTest
         {
             //Komentarz
             var fz = new FastZip();
-            fz.ExtractZip("omegacgl.zip", "depack", null);  
+            fz.ExtractZip("omegacgl.zip", "unpack", null);  
         }
     }
 }
